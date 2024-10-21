@@ -1,5 +1,7 @@
 # C File Watcher and Compiler
 
+### Attention, cet outil est compatible uniquement avec un editeur tel que Sublim Text... Avec Visual Studio Code, cela ne fonctionne pas très bien.
+
 Un outil Python pour surveiller les fichiers `.c` dans un dossier spécifié et compiler automatiquement tout fichier modifié en utilisant le compilateur Visual Studio (`cl`). Ce projet est conçu pour faciliter le développement de fichiers C en automatisant le processus de compilation.
 
 ## Table des matières
