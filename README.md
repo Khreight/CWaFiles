@@ -31,7 +31,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/CWaFiles.git
+   git clone https://github.com/Khreight/CWaFiles.git
    cd CWaFiles
    ```
 
